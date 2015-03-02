@@ -1,0 +1,9 @@
+{
+  "name": "cpumon",
+  "version": "1.0",
+  "repo": "gioyik/cpumon",
+  "description": "CPU process monitoring allows many cores",
+  "keywords": ["process", "monitoring", "monitor"],
+  "license": "MIT",
+  "install": "make install"
+}
