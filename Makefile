@@ -1,5 +1,5 @@
-cpubars: LDLIBS += -lncurses
-cpubars: cpumon.o
+cpumon: LDLIBS += -lncurses
+cpumon: cpumon.o
 
 clean:
 	rm -f cpumon cpumon.o
